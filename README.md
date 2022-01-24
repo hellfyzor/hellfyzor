@@ -1,7 +1,4 @@
 Olá, Sejam todos bem-vindos.
-Sou o Márcio Andrade.
-
-- 🌱 Atualmente estudando Spring.
 
 <div align="center">
   <a href="https://github.com/hellfyzor">
